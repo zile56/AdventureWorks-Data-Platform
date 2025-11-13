@@ -1,0 +1,43 @@
+# AdventureWorks Data Platform - Python Dependencies
+
+# Airflow
+apache-airflow==2.8.1
+apache-airflow-providers-postgres==5.10.0
+
+# Database Drivers
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.25
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+
+# Object Storage
+minio==7.2.3
+
+# HTTP & API
+requests==2.31.0
+urllib3==2.1.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+
+# Jupyter & Notebooks
+jupyter==1.0.0
+ipykernel==6.28.0
+notebook==7.0.6
+
+# Utilities
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+
+# Data Validation
+great-expectations==0.18.8
+
+# Logging
+loguru==0.7.2
+
+# Configuration
+pyyaml==6.0.1
